@@ -1,0 +1,73 @@
+|Practica2_1
+S[0] <= Block2:inst.S
+S[1] <= Block2:inst3.S
+S[2] <= Block2:inst4.S
+S[3] <= Block2:inst5.S
+S[4] <= Block2:inst5.Cou
+A[0] => Block2:inst.A
+A[1] => Block2:inst3.A
+A[2] => Block2:inst4.A
+A[3] => Block2:inst5.A
+B[0] => Block2:inst.B
+B[1] => Block2:inst3.B
+B[2] => Block2:inst4.B
+B[3] => Block2:inst5.B
+Cir => Block2:inst.Cir
+
+
+|Practica2_1|Block2:inst
+S <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+A => inst3.IN0
+A => inst1.IN0
+A => inst.IN0
+B => inst3.IN1
+B => inst2.IN0
+B => inst.IN1
+Cir => inst4.IN1
+Cir => inst1.IN1
+Cir => inst2.IN1
+Cou <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Practica2_1|Block2:inst3
+S <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+A => inst3.IN0
+A => inst1.IN0
+A => inst.IN0
+B => inst3.IN1
+B => inst2.IN0
+B => inst.IN1
+Cir => inst4.IN1
+Cir => inst1.IN1
+Cir => inst2.IN1
+Cou <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Practica2_1|Block2:inst4
+S <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+A => inst3.IN0
+A => inst1.IN0
+A => inst.IN0
+B => inst3.IN1
+B => inst2.IN0
+B => inst.IN1
+Cir => inst4.IN1
+Cir => inst1.IN1
+Cir => inst2.IN1
+Cou <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Practica2_1|Block2:inst5
+S <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+A => inst3.IN0
+A => inst1.IN0
+A => inst.IN0
+B => inst3.IN1
+B => inst2.IN0
+B => inst.IN1
+Cir => inst4.IN1
+Cir => inst1.IN1
+Cir => inst2.IN1
+Cou <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+

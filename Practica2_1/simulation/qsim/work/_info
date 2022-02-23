@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/sergio/intelFPGA_lite/19.1/Projects/Practica2_1/simulation/qsim
+vhard_block
+Z1 !s110 1645151429
+!i10b 1
+!s100 =[=11Qj0I;@Lo;9Ch6ne:2
+IAhDEzYPBffc<ARkJk574S0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1645151428
+Z4 8Practica2_1.vo
+Z5 FPractica2_1.vo
+L0 500
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1645151429.000000
+Z8 !s107 Practica2_1.vo|
+Z9 !s90 -work|work|Practica2_1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vPractica2_1
+R1
+!i10b 1
+!s100 S;>4S@KmE44RiKIKTQT5Y1
+IaEgf5H^k<QoS=Rdnb:FXQ0
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@practica2_1
+vPractica2_1_vlg_vec_tst
+R1
+!i10b 1
+!s100 BAaCf9@1`XF8Sb6WTXKGW2
+I8^a@ge6LcgR]l?X=69=jW2
+R2
+R0
+w1645151427
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R10
+R11
+n@practica2_1_vlg_vec_tst
